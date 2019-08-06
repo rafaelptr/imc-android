@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">IMC</string>
+    <!-- label section -->
+    <string name="label_title">Calculadora IMC</string>
+    <string name="label_weight">Peso</string>
+    <string name="label_height">Altura</string>
+    <string name="label_genre">Sexo</string>
+    <string name="label_clear">Limpar</string>
+    <string name="label_calculate">Calcular</string>
+    <string name="label_female">Feminino</string>
+    <string name="label_male">Masculino</string>
+    <string name="label_below_weight">Abaixo do peso</string>
+    <string name="label_ideal_weight">Peso ideal</string>
+    <string name="label_above_weight">Levemente acima do peso</string>
+    <string name="label_obese_weight">Obeso</string>
+    <string name="label_extremely_obese_weight">Extremamente Obeso</string>
+    <!-- hints section -->
+    <string name="hint_weight">Pex: 65,5 kg</string>
+    <string name="hint_height">Ex: 1,75 m</string>
+    <string name="hint_genre">Selecione o sexo</string>
+    <string name="hint_rs_weight">20.1</string>
+    <string name="hint_rs_ideal_weight">Peso ideal</string>
+    <string name="hint_rs_imc_msg">Seu peso está ideial</string>
+</resources>
